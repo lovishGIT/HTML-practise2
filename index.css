@@ -1,0 +1,50 @@
+body
+{
+  margin: 0em 0em;
+  text-align: center;
+  font-family: 'Montserrat',cursive, sans-serif;
+  background-color: rgb(219, 209, 168);
+}
+/******************************/
+
+h2 {
+  margin: 0.625em auto 0em auto;/*10 20*/
+  font-size: 2.5em;/*40*/
+}
+h4 {
+  margin-top: 0em;
+  font-size: 1.5625em;/*25*/
+  font-family: 'Sacramento',sans-serif;
+}
+.top-container {
+  margin-bottom: 1.25em;/*20*/
+}
+.Lovish {
+  text-decoration: underline; 
+}
+.Web {
+  font-weight: bold;
+  font-size: 1.875em;/*30*/
+}
+.cloud2 {
+  position: relative;
+  top: 11.25em;/*190*/
+  left: 13.75em;/*220*/
+  mix-blend-mode: multiply;
+}
+.cloud1 {
+  position: relative;
+  bottom: 18.75em;/*300*/
+  left: -3.74em;/*-60px*/
+  mix-blend-mode: multiply;
+}
+.mountain {
+  position: relative;
+  right: 2.5em;/*40*/
+  width: 18.8em;/*300*/
+  mix-blend-mode: multiply;
+}
+.btn {
+  font-size: large;
+  font-family: cursive;
+}
